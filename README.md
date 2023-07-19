@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brayan Areiza</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<h3 align="left">Una breve descripcion:</h3>
+<h3 align="left">Contacta con migo:</h3>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <p align="left">
 </p>
 
