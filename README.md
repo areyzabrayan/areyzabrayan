@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning frontend Development
 <!--
 **areyzabrayan/areyzabrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Herramientas usadas
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
