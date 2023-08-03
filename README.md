@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan Areiza</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">Un desarrollador Front.end apasionado por la tecnologia que busca a traves del sector TI aportar a la sociedad y a su constante progeso hacia una calidad de vida mejor.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
